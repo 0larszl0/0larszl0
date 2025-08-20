@@ -9,11 +9,13 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 <br  />
 
 <h3>
+   <strong>
 <pre>
 //-----------------------------------------\\
 |&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
 \\-----------------------------------------//
 </pre>
+   </strong>
 </h3>
    
 <h4>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin</a> ☆</h4>
