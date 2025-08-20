@@ -1,23 +1,18 @@
+<code>
+<div id="main">
+   
+<h1 align=center>0larszl0</h1>
+<strong>Hi!</strong>
+I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence.
+Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
-
-<div id="main" style="font-family: monospace">
-   <h1 style="text-align: center;">0larszl0</h1>
+<h3>
+//-----------------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-----------------------------------------//
+</h3>
    
-   <hr>
-   
-   <p><strong>Hi!</strong></p>
-   <p>I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence. </p>
-   <p>Before continuing, let me ask you something... What is your <i>hobby?</i></p>
-   
-   <hr>
-   
-   <h2 style="text-wrap: nowrap">
-      //-----------------------------------------\\<br  />
-      |&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-      \\-----------------------------------------//
-   </h2>
-
-   <h3>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin ☆</a></h3>
+<div><strong>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin ☆</a></strong></div>
 
    <div style="display: grid; grid-template-columns: 65% 35%; grid-column-gap: 20px; width: 100%; height: max(200px, auto); padding: 0 50px">
       <div>
@@ -89,3 +84,4 @@
    <p>Other unseen projects include: <i>Pong</i>, a virtual assistant named "<i>Edith</i>", and experiments into <i>AI music generation</i>.</p>
 
 </div>
+</code>
