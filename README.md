@@ -33,15 +33,12 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <h4>2. <a href="https://github.com/0larszl0/Firefox-LEGACY">Firefox-LEGACY</a></h4>
 <table>
-   <tr width=100%>
+   <tr>
       <td width="70%">
          A custom firefox CSS that will be displayed instead of your boring default page when you enter a New Tab.
       </td>
       <td width="30%">
-         <video autoplay width="inherit" height="inherit">
-            <source src="RepositoryClips/FireFox-LEGACY-Clip.mp4" type="video/mp4">
-             Your browser does not support playing the mp4 FireFox-LEGACY clip.
-         </video>
+         <img src="RepositoryClips/FireFox-LEGACY-Clip.gif" alt="Preview of Firefox-LEGACY" />
       </td>
    </tr>
 </table>
@@ -53,10 +50,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          An instance where a group assignment becomes a solo mission as I became the only person out of a group of 6 to contribute to this project. This gave me the opportunity to test how far I can push my skills (learnt from making the fitness-app-with-flask repo) in the deadline given alongside 2 other assignments. The goal was to try and make a more user-friendly, and interactive experience using ChatGPT, and while the project is incomplete, I was personally <strong>proud</strong> of the outcome and even <strong>managed to score a first class for it!</strong>
       </td>
       <td width="30%">
-         <video autoplay width="inherit" height="inherit">
-            <source src="RepositoryClips/ChatGPT-Remastered-Clip.mp4" type="video/mp4">
-             Your browser does not support playing the mp4 ChatGPT-Remastered clip.
-         </video>
+         <img src="RepositoryClips/ChatGPT-Remastered-Clip.gif" alt="Preview of ChatGPT-Prompt-Remastered" />
       </td>
    </tr>
 </table>
@@ -96,7 +90,40 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    <li><strong>Stock Market Entries</strong></li>
 </ul>
 
+<table>
+   <tr height="50%">
+      <td width="33%">
+         <img src="RepositoryClips/Iron-Troopers-Clip3.gif" alt="Preview of my Iron Troopers Menu screen" />
+      </td>
+      <td width="33%">
+         <img src="RepositoryClips/Iron-Troopers-Clip2.gif" alt="Preview of my Iron Troopers parallax scene" />
+      </td>
+      <td width="33%">
+         <img src="RepositoryClips/Iron-Troopers-Clip1.gif" alt="Preview of my Iron Troopers character animation" />
+      </td>
+   </tr>
+   <tr>
+      <td width="33%">
+         <img src="Lumos1.jpeg" alt="Preview of discord bot output on arrival" />
+      </td>
+      <td width="33%">
+         <img src="Lumos2.jpeg" alt="Preview of discord help and its functionalities" />
+      </td>
+      <td width="33%">
+         <img src="Pacman-Clip.gif" alt="Preview of my pacman game" />
+      </td>
+   </tr>
+   <tr>
+      <td width="33%">
+         <img src="RepositoryClips/StockMarket-Clip.gif" alt="Preview of stock market entries" />
+      </td>
+      <td width="33%">
+         <img src="RepositoryClips/SpaceJunk2D-Clip.gif" alt="Preview of my first unity project" />
+      </td>
+      <td width="33%">
+         <img src="RepositoryClips/SpaceJunkVR.gif" alt="Preview of taking my first unity project and recreating it in VR" />
+      </td>
+   </tr>
+</table>
+
 <p>Other unseen projects include: <i>Pong</i>, a virtual assistant named "<i>Edith</i>", and experiments into <i>AI music generation</i>.</p>
-
-</div>
-
