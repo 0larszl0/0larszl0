@@ -24,7 +24,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          SuperHotLogin is a QML project that was made for SDDM logins. The design used within it is meant to relate to old style monitors while giving a futuristic vibe to it. To date it is <strong>my most starred</strong> project and has been very successful in reddit groups: <code>r/unixporn</code> <code>r/linuxporn</code>, that value ricing on linux distributions.
       </td>
       <td width="30%">
-         <img src="RepositoryClips/SuperHotPreview.gif" alt="Preview of SuperHotLogin" />
+         <img align=center src="RepositoryClips/SuperHotPreview.gif" alt="Preview of SuperHotLogin" />
       </td>
    </tr>
 </table>
@@ -38,7 +38,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          A custom firefox CSS that will be displayed instead of your boring default page when you enter a New Tab.
       </td>
       <td width="30%">
-         <img src="RepositoryClips/FireFox-LEGACY-Clip.gif" alt="Preview of Firefox-LEGACY" />
+         <img align=center src="RepositoryClips/FireFox-LEGACY-Clip.gif" alt="Preview of Firefox-LEGACY" />
       </td>
    </tr>
 </table>
@@ -50,7 +50,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          An instance where a group assignment becomes a solo mission as I became the only person out of a group of 6 to contribute to this project. This gave me the opportunity to test how far I can push my skills (learnt from making the fitness-app-with-flask repo) in the deadline given alongside 2 other assignments. The goal was to try and make a more user-friendly, and interactive experience using ChatGPT, and while the project is incomplete, I was personally <strong>proud</strong> of the outcome and even <strong>managed to score a first class for it!</strong>
       </td>
       <td width="30%">
-         <img src="RepositoryClips/ChatGPT-Remastered-Clip.gif" alt="Preview of ChatGPT-Prompt-Remastered" />
+         <img align=center src="RepositoryClips/ChatGPT-Remastered-Clip.gif" alt="Preview of ChatGPT-Prompt-Remastered" />
       </td>
    </tr>
 </table>
@@ -91,8 +91,8 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 </ul>
 
 <table>
-   <tr height="50%">
-      <td width="33%">
+   <tr height="288px">
+      <td width="33%" height="288px">
          <img src="RepositoryClips/Iron-Troopers-Clip3.gif" alt="Preview of my Iron Troopers Menu screen" />
       </td>
       <td width="33%">
@@ -104,13 +104,13 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    </tr>
    <tr>
       <td width="33%">
-         <img src="Lumos1.jpeg" alt="Preview of discord bot output on arrival" />
+         <img src="RepositoryClips/Lumos1.jpeg" alt="Preview of discord bot output on arrival" />
       </td>
       <td width="33%">
-         <img src="Lumos2.jpeg" alt="Preview of discord help and its functionalities" />
+         <img src="RepositoryClips/Lumos2.jpeg" alt="Preview of discord help and its functionalities" />
       </td>
       <td width="33%">
-         <img src="Pacman-Clip.gif" alt="Preview of my pacman game" />
+         <img src="RepositoryClips/Pacman-Clip.gif" alt="Preview of my pacman game" />
       </td>
    </tr>
    <tr>
@@ -121,7 +121,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          <img src="RepositoryClips/SpaceJunk2D-Clip.gif" alt="Preview of my first unity project" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/SpaceJunkVR.gif" alt="Preview of taking my first unity project and recreating it in VR" />
+         <img src="RepositoryClips/SpaceJunkVR-Clip.gif" alt="Preview of taking my first unity project and recreating it in VR" />
       </td>
    </tr>
 </table>
