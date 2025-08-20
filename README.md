@@ -6,11 +6,11 @@
 I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence.
 Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
-<h3>
+<h2>
 //-----------------------------------------\\
 |&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
 \\-----------------------------------------//
-</h3>
+</h2>
    
 <div><strong>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin ☆</a></strong></div>
 
