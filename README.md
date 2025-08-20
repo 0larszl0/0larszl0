@@ -13,7 +13,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 \\-----------------------------------------//
 </h3>
    
-<div><strong>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin ☆</a></strong></div>
+<h4>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin</a> ☆</h4>
 
    <div style="display: grid; grid-template-columns: 65% 35%; grid-column-gap: 20px; width: 100%; height: max(200px, auto); padding: 0 50px">
       <div>
