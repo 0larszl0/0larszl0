@@ -2,20 +2,19 @@
 <strong>Hi!</strong>
 
 <br  />
+<br  />
 
 I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence.
-Before continuing, let me ask you something... What is your <i>hobby?</i></p>
+Before continuing, let me ask you something... What is your <i>hobby?</i>
 
 <br  />
 
 <h3>
-   <strong>
 <pre>
 //-----------------------------------------\\
 |&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
 \\-----------------------------------------//
 </pre>
-   </strong>
 </h3>
    
 <h4>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin</a> ☆</h4>
@@ -67,16 +66,12 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <br  />
 
-```
-   //------------------------\\<br  />
-   |&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-   \\------------------------//
-```
-
-<h3 style="text-wrap: nowrap">
-   //------------------------\\<br  />
-   |&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-   \\------------------------//
+<h3>
+<pre>
+//-------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-------------------------//
+</pre>
 </h3>
 <p>* <i>This section will not include anything in the previous section: "My most complete and proud projects".</i></p>
 
@@ -85,10 +80,12 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <br  />
 
-<h3 style="text-wrap: nowrap">
-   //-----------------------\\<br  />
-   |&nbsp;&nbsp;&nbsp;&nbsp;Private Prototypes&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-   \\-----------------------//
+<h3>
+<pre>
+//------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;Private Prototypes&nbsp;&nbsp;&nbsp;&nbsp;|
+\\------------------------//
+</pre>
 </h3>
 
 <p>In my own time I've taken up several projects over the years, many incomplete but each have helped build the skills that I am still developing today.</p>
