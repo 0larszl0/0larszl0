@@ -9,11 +9,13 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 <br  />
 
 <h3>
-//----------------------------------------------\\<br  />
-|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-\\----------------------------------------------//
+<pre>
+//-----------------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-----------------------------------------//
+</pre>
 </h3>
-
+   
 <h4>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin</a> ☆</h4>
 <table>
    <tr>
@@ -63,10 +65,16 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <br  />
 
-<h3 style="text-wrap: nowrap">
-   //-------------------------\\<br  />
+```
+   //------------------------\\<br  />
    |&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-   \\-------------------------//
+   \\------------------------//
+```
+
+<h3 style="text-wrap: nowrap">
+   //------------------------\\<br  />
+   |&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
+   \\------------------------//
 </h3>
 <p>* <i>This section will not include anything in the previous section: "My most complete and proud projects".</i></p>
 
@@ -76,9 +84,9 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 <br  />
 
 <h3 style="text-wrap: nowrap">
-   //------------------------\\<br  />
+   //-----------------------\\<br  />
    |&nbsp;&nbsp;&nbsp;&nbsp;Private Prototypes&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
-   \\------------------------//
+   \\-----------------------//
 </h3>
 
 <p>In my own time I've taken up several projects over the years, many incomplete but each have helped build the skills that I am still developing today.</p>
