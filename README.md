@@ -24,10 +24,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i>
          SuperHotLogin is a QML project that was made for SDDM logins. The design used within it is meant to relate to old style monitors while giving a futuristic vibe to it. To date it is <strong>my most starred</strong> project and has been very successful in reddit groups: <code>r/unixporn</code> <code>r/linuxporn</code>, that value ricing on linux distributions.
       </td>
       <td width="30%">
-         <video autoplay width="inherit" height="inherit">
-            <source src="RepositoryClips/SuperHotLogin-Clip.mp4" type="video/mp4">
-             Your browser does not support playing the mp4 SuperHotLogin clip.
-         </video>
+         <img src="Repository Clips/SuperHotPreview.gif" alt="Preview of SuperHotLogin">
       </td>
    </tr>
 </table>
