@@ -1,18 +1,39 @@
-<code>
-<div id="main">
-   
 <h1 align=center>0larszl0</h1>
 <strong>Hi!</strong>
+
 <br  />
+
 I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence.
 Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
+<br  />
+
 <h3>
-//-----------------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
-\\-----------------------------------------//
+//----------------------------------------------\\<br  />
+|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
+\\----------------------------------------------//
 </h3>
-   
+
+<div>
+   <span>
+      
+   </span>
+   <span>
+      
+   </span>
+</div>
+
+<table align=center width="100%" border: 0px solid none>
+
+   <tr>
+      <td width="70%">
+         SuperHotLogin is a QML project that was made for SDDM logins. The design used within it is meant to relate to old style monitors while giving a futuristic vibe to it. To date it is <strong>my most starred</strong> project and has been very successful in reddit groups: <code>r/unixporn</code> <code>r/linuxporn</code>, that value ricing on linux distributions.
+      </td>
+      <td width="30%">World</td>
+   </tr>
+</table>
+
+
 <h4>1. <a href="https://github.com/0larszl0/SuperHotLogin">SuperHotLogin</a> ☆</h4>
 
    <div style="display: grid; grid-template-columns: 65% 35%; grid-column-gap: 20px; width: 100%; height: max(200px, auto); padding: 0 50px">
@@ -27,7 +48,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
       </div>
    </div>
 
-   <h3>2. <a href="https://github.com/0larszl0/Firefox-LEGACY">Firefox-LEGACY</a></h3>
+   <h4>2. <a href="https://github.com/0larszl0/Firefox-LEGACY">Firefox-LEGACY</a></h4>
 
    <div style="display: grid; grid-template-columns: 65% 35%; grid-column-gap: 20px; width: 100%; height: max(200px, auto); padding: 0 50px">
       <div>
@@ -41,7 +62,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
       </div>
    </div>
 
-   <h3>3. <a href="https://github.com/0larszl0/ChatGPT-Prompt-Remastered">ChatGPT-Prompt-Remastered</a></h3>
+   <h4>3. <a href="https://github.com/0larszl0/ChatGPT-Prompt-Remastered">ChatGPT-Prompt-Remastered</a></h4>
 
    <div style="display: grid; grid-template-columns: 65% 35%; grid-column-gap: 20px; width: 100%; height: max(200px, auto); padding: 0 50px">
       <div>
@@ -55,11 +76,11 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
       </div>
    </div>
 
-   <h2 style="text-wrap: nowrap">
+   <h3 style="text-wrap: nowrap">
       //-------------------------\\<br  />
       |&nbsp;&nbsp;&nbsp;&nbsp;Recent publications&nbsp;&nbsp;&nbsp;&nbsp;|<br  />
       \\-------------------------//
-   </h2>
+   </h3>
    <p>* <i>This section will not include anything in the previous section: "My most complete and proud projects".</i></p>
 
    <p>Currently, I do not have any recent publications that fit the starred requirement, but stay tuned for new projects!</p>
@@ -85,4 +106,4 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    <p>Other unseen projects include: <i>Pong</i>, a virtual assistant named "<i>Edith</i>", and experiments into <i>AI music generation</i>.</p>
 
 </div>
-</code>
+
