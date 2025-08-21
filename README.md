@@ -91,8 +91,8 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 </ul>
 
 <table>
-   <tr height="288px">
-      <td width="33%" height="288px">
+   <tr>
+      <td width="33%">
          <img src="RepositoryClips/Iron-Troopers-Clip3.gif" alt="Preview of my Iron Troopers Menu screen" />
       </td>
       <td width="33%">
