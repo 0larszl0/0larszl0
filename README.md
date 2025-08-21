@@ -119,7 +119,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
          <img src="RepositoryClips/StockMarket-Clip.gif" alt="Preview of stock market entries" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/SpaceJunk2D-Clip.gif" alt="Preview of my first unity project" />
+         <img src="RepositoryClips/SpaceJunk-Clip.gif" alt="Preview of my first unity project" />
       </td>
    </tr>
 </table>
