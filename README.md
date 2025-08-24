@@ -93,33 +93,33 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 <table>
    <tr>
       <td width="33%">
-         <img src="RepositoryClips/Iron-Troopers-Clip3.gif" alt="Preview of my Iron Troopers Menu screen" />
+         <img align=center src="RepositoryClips/Iron-Troopers-Clip3.gif" alt="Preview of my Iron Troopers Menu screen" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/Iron-Troopers-Clip2.gif" alt="Preview of my Iron Troopers parallax scene" />
+         <img align=center src="RepositoryClips/Iron-Troopers-Clip2.gif" alt="Preview of my Iron Troopers parallax scene" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/Iron-Troopers-Clip1.gif" alt="Preview of my Iron Troopers character animation" />
+         <img align=center src="RepositoryClips/Iron-Troopers-Clip1.gif" alt="Preview of my Iron Troopers character animation" />
       </td>
    </tr>
    <tr>
       <td width="33%">
-         <img src="RepositoryClips/SpaceJunkVR-Clip.gif" alt="Preview of taking my first unity project and recreating it in VR" />
+         <img align=center src="RepositoryClips/SpaceJunkVR-Clip.gif" alt="Preview of taking my first unity project and recreating it in VR" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/Lumos1.jpeg" alt="Preview of discord bot output on arrival" />
-         <img src="RepositoryClips/Lumos2.jpeg" alt="Preview of discord help and its functionalities" />
+         <img align=center src="RepositoryClips/Lumos1.jpeg" alt="Preview of discord bot output on arrival" />
+         <img align=center src="RepositoryClips/Lumos2.jpeg" alt="Preview of discord help and its functionalities" />
       </td>
       <td width="33%" rowspan=2>
-         <img src="RepositoryClips/Pacman-Clip.gif" alt="Preview of my pacman game" />
+         <img align=center src="RepositoryClips/Pacman-Clip.gif" alt="Preview of my pacman game" />
       </td>
    </tr>
    <tr>
       <td width="33%">
-         <img src="RepositoryClips/StockMarket-Clip.gif" alt="Preview of stock market entries" />
+         <img align=center src="RepositoryClips/StockMarket-Clip.gif" alt="Preview of stock market entries" />
       </td>
       <td width="33%">
-         <img src="RepositoryClips/SpaceJunk-Clip.gif" alt="Preview of my first unity project" />
+         <img align=center src="RepositoryClips/SpaceJunk-Clip.gif" alt="Preview of my first unity project" />
       </td>
    </tr>
 </table>
