@@ -85,7 +85,6 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    <li><strong>Discord bot</strong> named "<i>Lumos</i>"</li>
    <li><strong>Unity Projects</strong> for 2D, 3D and Virtual Reality</li>
    <li><strong>Stock Market Entries</strong></li>
-   <li><strong>Flask-based development for a remastered ChatGPT interface</strong></li>
 </ul>
 
 <table>
