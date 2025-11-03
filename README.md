@@ -29,9 +29,19 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    </tr>
 </table>
 
+<h4>2. <a href="https://github.com/0larszl0/Cybercafe">Cybercafe</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         A restoration project to bring the old linux console font: "cybercafe.fnt", into the modern world.
+      </td>
+      <td width="30%">
+         <img align=center src="RepositoryClips/cybercafe-screenshot.png" alt="Image of characters within fontforge" />
+      </td>
+   </tr>
+</table>
 
-
-<h4>2. <a href="https://github.com/0larszl0/Firefox-LEGACY">Firefox-LEGACY</a></h4>
+<h4>3. <a href="https://github.com/0larszl0/Firefox-LEGACY">Firefox-LEGACY</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -39,18 +49,6 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
       </td>
       <td width="30%">
          <img align=center src="RepositoryClips/FireFox-LEGACY-Clip.gif" alt="Preview of Firefox-LEGACY" />
-      </td>
-   </tr>
-</table>
-
-<h4>3. <a href="https://github.com/0larszl0/ChatGPT-Prompt-Remastered">ChatGPT-Prompt-Remastered</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         An instance where a group assignment becomes a solo mission as I became the only person out of a group of 6 to contribute to this project. This gave me the opportunity to test how far I can push my skills (learnt from making the fitness-app-with-flask repo) in the deadline given alongside 2 other assignments. The goal was to try and make a more user-friendly, and interactive experience using ChatGPT, and while the project is incomplete, I was personally <strong>proud</strong> of the outcome and even <strong>managed to score a first class for it!</strong>
-      </td>
-      <td width="30%">
-         <img align=center src="RepositoryClips/ChatGPT-Remastered-Clip.gif" alt="Preview of ChatGPT-Prompt-Remastered" />
       </td>
    </tr>
 </table>
@@ -65,7 +63,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 </pre>
 </h3>
 
-<p>Currently, I am working on a short-story that mixes puzzles and decision making within a mobile game. The project intends on testing the users codebreaking skills, for casual and advanced users, while incorporating a story that attempts to connect with the player. The project intends on including rewards and achievements to congratulate the user on any milestone they may have faced... the ones that are good, bad, and ugly...</p>
+<p>Outside of the projects that are task by my university, I'm hoping to make a short-story that mixes puzzles and decision making within a mobile game. The project intends on testing the users codebreaking skills, for casual and advanced users, while incorporating a story that attempts to connect with the player. The project intends on including rewards and achievements to congratulate the user on any milestone they may have faced... the ones that are good, bad, and ugly...</p>
 <p>Stay tuned for any updates on this and don't forget to check out my other public repositories by clicking the "<i>Repositories</i>" tab!</p>
 
 <br  />
@@ -79,14 +77,15 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 </h3>
 
 <p>In my own time I've taken up several projects over the years, many incomplete but each have helped build the skills that I am still developing today.</p>
-<p>I've decided to showcase some of my work not only to show you readers what I have been able to do, but also to act as a reminder to myself of the successes and failures and the overall journey I have taken thus far. I hope my work can inspire others to create something for themselves or for the benefit of others without the sacrifice of another.</p>
+<p>I've decided to showcase some of my work not only to show you readers what I have been able to do, but also to act as a reminder to myself of the successes and failures and the overall journey I have taken thus far. I hope my work can inspire others to take on projects which they can hold with pride.</p>
 <p>The images and videos are included in the following projects:</p>
 
 <ul>
-   <li><strong>Pygame related</strong>: Pacman & my own platform-shooter I named "<i>Iron Troopers</i>"</li>
+   <li><strong>Pygame related</strong>: Pacman, Pong & my own platform-shooter I named "<i>Iron Troopers</i>"</li>
    <li><strong>Discord bot</strong> named "<i>Lumos</i>"</li>
    <li><strong>Unity Projects</strong> for 2D, 3D and Virtual Reality</li>
    <li><strong>Stock Market Entries</strong></li>
+   <li><strong>Flask-based development for a remastered ChatGPT interface</strong></li>
 </ul>
 
 <table>
@@ -123,4 +122,4 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    </tr>
 </table>
 
-<p>Other unseen projects include: <i>Pong</i>, a virtual assistant named "<i>Edith</i>", and experiments into <i>AI music generation</i>.</p>
+<p>Other unseen projects include: a virtual assistant named "<i>Edith</i>", and experiments into <i>AI music generation</i>.</p>
