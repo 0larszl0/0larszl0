@@ -11,9 +11,9 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <h3>
 <pre>
-//-----------------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;My most complete and proud projects&nbsp;&nbsp;&nbsp;&nbsp;|
-\\-----------------------------------------//
+//-------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;My most complete projects&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-------------------------------//
 </pre>
 </h3>
    
@@ -29,7 +29,7 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
    </tr>
 </table>
 
-<h4>2. <a href="https://github.com/0larszl0/Cybercafe">Cybercafe</a></h4>
+<h4>2. <a href="https://github.com/0larszl0/Cybercafe">Cybercafe</a> ☆</h4>
 <table>
    <tr>
       <td width="70%">
