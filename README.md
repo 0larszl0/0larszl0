@@ -57,19 +57,6 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 
 <h3>
 <pre>
-//-------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Workshop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-\\-------------------------//
-</pre>
-</h3>
-
-<p>Outside of the projects that are task by my university, I'm hoping to make a short-story that mixes puzzles and decision making within a mobile game. The project intends on testing the users codebreaking skills, for casual and advanced users, while incorporating a story that attempts to connect with the player. The project intends on including rewards and achievements to congratulate the user on any milestone they may have faced... the ones that are good, bad, and ugly...</p>
-<p>Stay tuned for any updates on this and don't forget to check out my other public repositories by clicking the "<i>Repositories</i>" tab!</p>
-
-<br  />
-
-<h3>
-<pre>
 //------------------------\\
 |&nbsp;&nbsp;&nbsp;&nbsp;Private Prototypes&nbsp;&nbsp;&nbsp;&nbsp;|
 \\------------------------//
