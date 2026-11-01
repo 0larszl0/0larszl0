@@ -4,15 +4,14 @@
 <br  />
 <br  />
 
-<p>I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a third year undergraduate student at Northumbria University, studying Artificial Intelligence.<br  />
-Before continuing, let me ask you something... What is your <i>hobby?</i></p>
+<p>I am <strong>Oliver Winhammar</strong> (<code>0larszl0</code>), a <i>First Class</i> Artificial Intelligence Graduate, Martial Artist, and DIY Enthusiast. Instead of sharing my life story, I have provided a compilation of all the projects I have been involved in, whether it was out of pleasure or for an educational or professional endeavour.</p>
 
 <br  />
 
 <h3>
 <pre>
 //-------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;My most complete projects&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;My most accomplished projects&nbsp;&nbsp;&nbsp;&nbsp;|
 \\-------------------------------//
 </pre>
 </h3>
@@ -63,8 +62,6 @@ Before continuing, let me ask you something... What is your <i>hobby?</i></p>
 </pre>
 </h3>
 
-<p>In my own time I've taken up several projects over the years, many incomplete but each have helped build the skills that I am still developing today.</p>
-<p>I've decided to showcase some of my work not only to show you readers what I have been able to do, but also to act as a reminder to myself of the successes and failures and the overall journey I have taken thus far. I hope my work can inspire others to take on projects which they can hold with pride.</p>
 <p>The images and videos are included in the following projects:</p>
 
 <ul>
